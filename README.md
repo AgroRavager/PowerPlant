@@ -1,2 +1,2 @@
-# powerplant
-This repository is for the 2021 Innovation Project
+# Powerplant
+This repository contains the code for the PowerPlant application
