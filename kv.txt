@@ -1,0 +1,774 @@
+Manager:
+    LoginScreen: 
+    HomeScreen:
+    AccountScreen:
+    GrowMode:
+    StoryMode:
+    RunWalk:
+    SubmitRun:
+    JoinGroup:
+    CreateGroup:
+    Logs:
+
+<Button>:
+    font_size_hint: 20
+    color: 0, 0, 0, 1
+    background_color: 0, 10, 0, 1
+    size_hint: 0.14, 0.03
+
+<LoginScreen>:
+    name: "login"
+
+    user_name: user
+    password: password
+
+    canvas:
+        Color: 
+            rgba: 0.3, 0.6, 0.2, 1
+        Rectangle:
+            size: self.size
+            pos: self.pos
+
+    FloatLayout:   
+        Image:
+            source: 'Images/POWERPLogo.png'
+            allow_stretch: False
+            keep_ratio: False
+            size_hint_y: 0.3
+            size_hint_x: 0.5
+            pos_hint: {'x': 0.25, 'top': 0.5}
+
+        Image:
+            source: 'Images/Simple_PowP_logo.png'
+            allow_stretch: False
+            keep_ratio: False
+            size_hint_y: 0.3
+            size_hint_x: 0.5
+            pos_hint: {'x': 0.28, 'top': 0.25}    
+        Label:
+            text: '[color=000000]Welcome to [/color][b][color=00ff99]Power[/color][color=aaff99]Plant[/color][/b]'
+            markup: True
+            font_size: 24
+            pos_hint: {'x': 0, 'top': 1.4}
+        Label:
+            text: 'Username: '
+            color: 0, 0, 0, 1
+            pos_hint: {'center_x': .5, 'top': 1.34}
+            font_size: 30
+        TextInput:
+            id: user
+            size_hint: 0.3, 0.05
+            multiline: False
+            pos_hint: {'center_x': 0.5, 'top': 0.802}
+            font_size: 25
+        Label:
+            text: 'Password: '
+            color: 0, 0, 0, 1
+            pos_hint: {'center_x': .5, 'top': 1.205}
+            font_size: 30
+        TextInput:
+            id: password
+            size_hint: 0.3, 0.05
+            multiline: False
+            pos_hint: {'center_x': 0.5, 'top': 0.667}
+            password: True
+            font_size: 25
+        Button:
+            text: "LOGIN"
+            background_color: .1, 1, .1, .7
+            on_press: 
+                root.login()
+                root.manager.transition.direction = 'left'
+            pos_hint: {'center_x': 0.425, 'top': 0.6}
+            size_hint: 0.15, 0.05
+            color: 1, 1, 1, 1
+        Button:
+            text: "SIGN UP"
+            background_color: .1, 1, .1, .7
+            bold: True
+            on_press: root.create()
+            pos_hint: {'center_x': 0.575, 'top': 0.6}
+            size_hint: 0.15, 0.05
+            color: 1, 1, 1, 1
+
+<AccountScreen>:
+    name: "account"
+
+    first_name: first
+    last_name: last
+    cancel_button: accbtn
+    weight: weight
+
+    canvas.before:
+        Rectangle:
+            pos: 0, self.y
+            size: self.size
+            source: "edited.jpg"
+
+    FloatLayout:       
+        Label:
+            text: 'Account Details'
+            font_size: 24
+            color: 0, 0, 0, 1
+            pos_hint: {'x': 0, 'top': 1.36}
+        Label:
+            text: 'First Name'
+            color: 0, 0, 0, 1
+            pos_hint: {'x': 0, 'top': 1.3}
+        TextInput:
+            id: first
+            size_hint: 0.3, 0.035
+            multiline: False
+            pos_hint: {'x': 0.35, 'top': 0.78}
+        Label:
+            text: 'Last Name'
+            color: 0, 0, 0, 1
+            pos_hint: {'x': 0, 'top': 1.2}
+        TextInput:
+            id: last
+            size_hint: 0.3, 0.035
+            multiline: False
+            pos_hint: {'x': 0.35, 'top': 0.69}
+        Label:
+            text: 'Weight (in pounds)'
+            color: 0, 0, 0, 1
+            pos_hint: {'x': 0, 'top': 1.11}
+        TextInput:
+            id: weight
+            size_hint: 0.3, 0.025
+            multiline: False
+            pos_hint: {'x': 0.35, 'top': 0.6}    
+        Button:
+            id: accbtn
+            text: "Cancel"
+            on_press: 
+                root.cancel()
+
+            pos_hint: {'x': 0.36, 'top': 0.45}
+        Button:
+            text: "Save"
+            on_press:
+                root.save_data()
+            pos_hint: {'x': 0.52, 'top': 0.45}
+
+<TextPopup>:
+    popup_message: popup
+
+    Label:
+        id: popup
+        text: ""
+        size_hint: 0.6, 0.2
+        pos_hint: {"x": 0.2, "top": 0.8}
+
+<HomeScreen>:
+    name: "home"
+
+    username_display: display_username
+    join_code: join_code
+
+    Tab:
+        do_default_tab: False
+        TabbedPanelItem:
+            text: 'Account'
+            color: 1, 1, 1, 1
+            border: 0, 0, 0, 1
+            background_color: 1, 1, 1, 1
+            AccountScreen:
+                FloatLayout:       
+                    Button:
+                        text: "LOGOUT"
+                        color: 1, 1, 1, 1
+                        pos_hint: {'x': 0.45, 'top': 0.5}
+                        on_press: 
+                            root.logout()
+                            root.manager.transition.direction = 'right'
+        TabbedPanelItem:
+            text: 'Help'
+            color: 1, 1, 1, 1
+            border: 0, 0, 0, 1
+            background_color: 0, .8, 0, 1
+            FloatLayout:
+                orientation: 'vertical'
+                Label:
+                    text: 'Welcome to PowerPlant! Here\'s a quick rundown of the app:'
+                    text_size: root.width - 40, None
+                    halign: 'center'
+                    pos_hint: {'top': 1.25}
+                    x: 40
+                Label:
+                    text: 'The home tab displays your name, your points, and your last workout.'
+                    text_size: root.width - 40, None
+                    halign: 'center'
+                    pos_hint: {'top': 1.2}
+                    x: 40
+                Label:
+                    text: 'My Gardens is currently under construction, but it is where you will be able to plant existing plants.'
+                    text_size: root.width - 40, None
+                    halign: 'center'
+                    pos_hint: {'top': 1.15}
+                    x: 40
+                Label:
+                    text: 'Workouts is where all the working out takes place. You will have an option to choose Story Mode or Grow Mode.\nStory Mode automatically generates activities while Grow Mode is done with groups.'
+                    text_size: root.width - 40, None
+                    halign: 'center'
+                    pos_hint: {'top': 1.1}
+                    x: 40
+                Label:
+                    text: 'Analytics is where you can access your previous workouts and see your progress.'
+                    text_size: root.width - 40, None
+                    halign: 'center'
+                    pos_hint: {'top': 1.05}
+                    x: 40
+                Label:
+                    text: 'Community is where you can join groups and create them youself. '
+                    text_size: root.width - 40, None
+                    halign: 'center'
+                    pos_hint: {'top': 1}
+                    x: 40
+                Label:
+                    text: 'My Labs is under construction, but it will be where you can create and grow your plants using your points.'
+                    text_size: root.width - 40, None
+                    halign: 'center'
+                    pos_hint: {'top': 0.95}
+                    x: 40
+                Label:
+                    text: 'Please contact example@gmail.com if you have any questions or concerns.'
+                    text_size: root.width - 40, None
+                    halign: 'center'
+                    pos_hint: {'top': 0.85}
+                    x: 40
+        TabbedPanelItem:
+            text: 'My Labs'
+            color: 1, 1, 1, 1
+            border: 0, 0, 0, 1
+            background_color: 0, 1, 0, 1
+            TestRV:
+                viewclass: 'Label'
+                RecycleBoxLayout:
+                    size_hint_y: None
+                    height: self.minimum_height
+                    orientation: 'vertical'
+        TabbedPanelItem:
+            text: 'Community'
+            color: 1, 1, 1, 1
+            border: 0, 0, 0, 1
+            background_color: .2, 1, .2, 1
+            FloatLayout:
+                canvas:
+                    Color: 
+                        rgba: 0.3, 0.6, 0.2, 1
+                    Rectangle:
+                        size: self.size
+                        pos: self.pos
+
+                Image:
+                    source: 'Images/POWERPLogo.png'
+                    allow_stretch: False
+                    keep_ratio: False
+                    size_hint_y: 0.3
+                    size_hint_x: 0.5
+                    pos_hint: {'x': 0.25, 'top': 0.5}
+
+                Image:
+                    source: 'Images/Simple_PowP_logo.png'
+                    allow_stretch: False
+                    keep_ratio: False
+                    size_hint_y: 0.3
+                    size_hint_x: 0.5
+                    pos_hint: {'x': 0.28, 'top': 0.25} 
+
+                Label:
+                    text: 'Enter join code:'
+                    pos_hint: {'x': -0.15, 'top': 1.35}
+                TextInput:
+                    id: join_code
+                    size_hint: 0.3, 0.05
+                    multiline: False
+                    pos_hint: {'center_x': 0.6, 'top': 0.88}
+                    font_size: 25
+
+                Button:
+                    background_color: 0, .5, 1, .3
+                    pos_hint: {'center_x': .5, 'center_y': .75}
+                    size_hint: .5, .1
+                    text: 'Join a Group'
+                    color: 1, 1, 1, 1
+                    font_size_hint: 25
+                    on_press:
+                        root.join_group()
+                Button:
+                    background_color:  0, .5, 1, .3
+                    pos_hint: {'center_x': .5, 'center_y': .55}
+                    size_hint: .5, .1
+                    text: 'Create a Group'
+                    color: 1, 1, 1, 1
+                    font_size_hint: 25
+                    on_press:
+                        root.manager.current = 'create'
+                        root.manager.transition.direction = 'left'
+        TabbedPanelItem:
+            text: 'Analytics'
+            color: 1, 1, 1, 1
+            border: 0, 0, 0, 1
+            background_color: .4, 1, .4, 1
+            BoxLayout:
+                Label:
+                    text: 'Second tab content area'
+                Button:
+                    text: 'Button that does nothing'
+        TabbedPanelItem:
+            text: 'Workouts'
+            color: 1, 1, 1, 1
+            border: 0, 0, 0, 1
+            background_color: 0.8, 1, 0.8, 1
+            FloatLayout:
+                canvas:
+                    Color: 
+                        rgba: 0.3, 0.6, 0.2, 1
+                    Rectangle:
+                        size: self.size
+                        pos: self.pos
+                Image:
+                    source: 'Images/PowPCactuses.png'
+                    allow_stretch: False
+                    keep_ratio: False
+                    size_hint_y: 0.3
+                    size_hint_x: 0.5
+                    pos_hint: {'x': 0.25, 'top': 0.35}
+                Button:
+                    background_color: 1, 1, 1, 1
+                    pos_hint: {'center_x': .5, 'center_y': .64} 
+                    size_hint: .5, .1
+                    text: 'Story Mode'
+                    color: 0, 0, 0, 1
+                    font_size: 25
+                    on_press:
+                        root.manager.current = 'Story Mode'
+                Button:
+                    background_color: 1, 1, 1, 1
+                    pos_hint: {'center_x': .5, 'center_y': .43} 
+                    size_hint: .5, .1
+                    text: 'Grow Mode'
+                    color: 0, 0, 0, 1
+                    font_size: 25
+                    on_press: 
+                        root.manager.current = 'Grow Mode'
+                        root.manager.transition.direction = 'left'
+                Button:
+                    background_color:  0, .5, 1, 1
+                    pos_hint: {'center_x': .9, 'center_y': .05}
+                    size_hint: .15, .05
+                    text: 'See Workouts'
+                    color: 1, 1, 1, 1
+                    font_size_hint: 25
+                    on_press:
+                        root.manager.current = 'prev_workouts'
+                        root.manager.transition.direction = 'left'
+        TabbedPanelItem:
+            text: 'My Gardens'
+            color: 1, 1, 1, 1
+            border: 0, 0, 0, 1
+            background_color: .6, 1, .6, 1
+            FloatLayout:
+                canvas:
+                    Color: 
+                        rgba: 0.3, 0.6, 0.2, 1
+                    Rectangle:
+                        size: self.size
+                        pos: self.pos
+
+        TabbedPanelItem:
+            text: 'Home'   
+
+            FloatLayout:
+                canvas:
+                    Color: 
+                        rgba: 0.3, 0.6, 0.2, 1
+                    Rectangle:
+                        size: self.size
+                        pos: self.pos
+
+                Label:
+                    text: 'MY PLANTS'
+                    bold: True
+                    font_size: 30
+                    pos_hint: {'x': 0, 'top': 1.4}
+
+                Image:
+                    source: 'Images/hellomynameis.png'
+                    allow_stretch: False
+                    keep_ratio: False
+                    size_hint_y: 0.3
+                    size_hint_x: 0.5
+                    pos_hint: {'x': 0.4, 'top': 0.27}
+
+                Image:
+                    source: 'Images/PowPHousePlant.png'
+                    allow_stretch: False
+                    keep_ratio: False
+                    size_hint_y: 0.3
+                    size_hint_x: 0.5
+                    pos_hint: {'x': 0.25, 'top': 0.7}
+
+                Label:
+                    id: display_username
+                    pos_hint: {'x': 0.39, 'top': 0.17}
+                    size_hint: 0.42, 0.1
+                    font_size: 60
+                    color: 0,0,0,1
+                    background_color: 1, 1, 1, 1
+                    text: ''
+
+<Logs>:
+    name: 'prev_workouts'
+
+    FloatLayout:
+        Label:
+            text: 'hello'
+
+<GrowMode>:
+    name: 'Grow Mode'
+    canvas:
+        Color: 
+            rgba: 0.3, 0.6, 0.2, 1
+        Rectangle:
+            size: self.size
+            pos: self.pos
+    FloatLayout:
+        Image:
+            source: 'Images/buff.png'
+            allow_stretch: False
+            keep_ratio: False
+            size_hint_y: 0.3
+            size_hint_x: 0.5
+            pos_hint: {'x': 0.25, 'top': 0.4}
+        Label:
+            text: 'Workouts'
+            color: 0, 0, 0, 1 
+            pos_hint: {'center_x': .5, 'center_y': .9}
+        Button:
+            background_color: 0, 0, .3, .7
+            pos_hint: {'center_x': .06, 'center_y': .95} 
+            size_hint: .15, .075
+            text: 'Back'
+            color: 1, 1, 1, 1 
+            font_size_hint: 25
+            on_press: 
+                root.manager.current = 'home'
+                root.manager.transition.direction = 'right'
+        Button:
+            background_color: 0, 0, .3, .7
+            pos_hint: {'center_x': .5, 'center_y': .8} 
+            size_hint: .5, .1
+            text: 'Run/Walk'
+            color: 1, 1, 1, 1 
+            font_size_hint: 25
+            on_press: 
+                root.manager.current = 'runwalk'
+                root.manager.transition.direction = 'left'
+        Button:
+            background_color: 0, 0, .3, .7
+            pos_hint: {'center_x': .5, 'center_y': .7} 
+            size_hint: .5, .1
+            text: 'Pull-ups'
+            color: 1, 1, 1, 1 
+            font_size_hint: 25
+        Button:
+            background_color: 0, 0, .3, .7
+            pos_hint: {'center_x': .5, 'center_y': .6} 
+            size_hint: .5, .1
+            text: 'Squats'
+            color: 1, 1, 1, 1 
+            font_size_hint: 25
+        Button:
+            background_color: 0, 0, .3, .7
+            pos_hint: {'center_x': .5, 'center_y': .5} 
+            size_hint: .5, .1
+            text: 'Bicep Curls'
+            color: 1, 1, 1, 1 
+            font_size_hint: 25
+<StoryMode>: 
+    name: 'Story Mode'
+    data: data 
+    canvas:
+        Rectangle:
+            size: self.size
+            pos: self.pos
+
+    FloatLayout:
+        Button:
+            background_color: 0, .4, .5, 1
+            pos_hint: {'center_x': .06, 'center_y': .95} 
+            size_hint: .15, .075
+            text: 'Back'
+            color: 1, 1, 1, 1 
+            font_size_hint: 25
+            on_press: 
+                root.manager.current = 'home'
+                root.manager.transition.direction = 'right'
+
+        Label:
+            id: data
+            text: ''
+            background_color: 0, .4, .5, 1
+            pos_hint: {'center_x': .5, 'center_y': .3} 
+            size_hint: 1, .01
+            font_size: 20
+            color: 0, 0, 0, 1
+
+        Button:
+            background_color: 0, .4, .5, 1
+            pos_hint: {'center_x': .15, 'center_y': .1} 
+            size_hint: .3, .1
+            text: 'Start'
+            color: 1, 1, 1, 1 
+            font_size_hint: 30
+            on_press: 
+                root.start_miliseconds()
+        Button:
+            background_color: 0, .4, .5, 1
+            pos_hint: {'center_x': .5, 'center_y': .1} 
+            size_hint: .3, .1
+            text: 'Pause'
+            color: 1, 1, 1, 1 
+            font_size_hint: 30
+            on_press: 
+                root.pause_animation()
+
+
+<RunWalk>:
+    name: 'runwalk'
+    milis: milis
+    seconds: seconds
+    minutes: minutes
+    hours: hours 
+
+    canvas:
+        Color: 
+            rgba: 0, 1, 0, 1
+        Rectangle:
+            size: self.size
+            pos: self.pos
+
+    FloatLayout:
+        Button:
+            background_color: 0, .4, .5, 1
+            pos_hint: {'center_x': .06, 'center_y': .95} 
+            size_hint: .15, .075
+            text: 'Back'
+            color: 1, 1, 1, 1 
+            font_size_hint: 25
+            on_press: 
+                root.reset_stopwatch()
+                root.manager.current = 'Grow Mode'
+                root.manager.transition.direction = 'right'
+
+        Label:
+            id: hours
+            text: '0'
+            background_color: 0, .4, .5, 1
+            pos_hint: {'center_x': .125, 'center_y': .3} 
+            font_size: 30
+
+        Label:
+            id: minutes
+            text: '0'
+            background_color: 0, .4, .5, 1
+            pos_hint: {'center_x': .375, 'center_y': .3} 
+            font_size: 30
+        
+        Label:
+            id: seconds
+            text: '0'
+            background_color: 0, .4, .5, 1
+            pos_hint: {'center_x': .625, 'center_y': .3} 
+            font_size: 30
+
+        Label:
+            id: milis
+            text: '0'
+            background_color: 0, .4, .5, 1
+            pos_hint: {'center_x': .875, 'center_y': .3}
+            size_hint: .25, .1
+            font_size: 40
+
+        Button:
+            background_color: 0, .4, .5, 1
+            pos_hint: {'center_x': .15, 'center_y': .1} 
+            size_hint: .3, .1
+            text: 'Start'
+            color: 1, 1, 1, 1 
+            font_size_hint: 30
+            on_press: 
+                root.start_timer()
+        Button:
+            background_color: 0, .4, .5, 1
+            pos_hint: {'center_x': .5, 'center_y': .1} 
+            size_hint: .3, .1
+            text: 'Pause'
+            color: 1, 1, 1, 1 
+            font_size_hint: 30
+            on_press: 
+                root.pause_timer()
+
+        Button:
+            background_color: 0, .4, .5, 1
+            pos_hint: {'center_x': .85, 'center_y': .1} 
+            size_hint: .3, .1
+            text: 'Submit'
+            color: 1, 1, 1, 1 
+            font_size_hint: 30
+            on_press: 
+                root.stop_timer()
+                root.stop_timer()
+                root.manager.current = 'submit_run'
+
+<SubmitRun>:
+    name: 'submit_run'
+
+    workout: workout_type
+    duration: duration
+    calories: calories
+
+    FloatLayout:
+        Button:
+            background_color: 0, .4, .5, 1
+            pos_hint: {'center_x': .06, 'center_y': .95}
+            size_hint: .15, .075
+            text: 'Back'
+            color: 1, 1, 1, 1
+            font_size_hint: 30
+            on_press:
+                root.manager.current = 'runwalk'
+                root.manager.transition.direction = 'right'
+
+        Label:
+            id: workout_type
+            pos_hint: {'center_x': .2, 'center_y': .85}
+            text: ''
+            color: 1, 1, 1, 1
+            font_size: 25
+
+        Label:
+            id: duration
+            pos_hint: {'center_x': .157, 'center_y': .78}
+            text: ''
+            color: 1, 1, 1, 1
+            font_size: 25
+
+        Label:
+            id: calories
+            pos_hint: {'center_x': .275, 'center_y': .71}
+            text: ''
+            color: 1, 1, 1, 1
+            font_size: 25
+
+        Button:
+            background_color: 0, .5, .5, .8
+            pos_hint: {'center_x': .5, 'center_y': .43}
+            size_hint: .8, .4
+            color: 1, 1, 1, 1
+            text: 'Graph'
+            font_size: 25
+
+        Button:
+            background_color: 0, .5, .5, .8
+            pos_hint: {'center_x': .25, 'center_y': .15}
+            size_hint: .3, .07
+            color: 1, 1, 1, 1
+            text: 'Cancel'
+            font_size: 25
+            on_press:
+                root.manager.current = 'runwalk'
+                root.manager.transition.direction = 'right'
+
+        Button:
+            background_color: 0, .5, .5, .8
+            pos_hint: {'center_x': .75, 'center_y': .15}
+            size_hint: .3, .07
+            color: 1, 1, 1, 1
+            text: 'Save'
+            font_size: 25
+            on_press:
+                root.save()
+                root.manager.current = 'home'
+                root.manager.transition.direction = 'right'
+
+<JoinGroup>:
+    name: 'join'
+
+    canvas:
+        Color: 
+            rgba: 0, 1, 0, 1
+        Rectangle:
+            size: self.size
+            pos: self.pos
+
+    FloatLayout:
+        Button:
+            background_color: 0, .4, .5, 1
+            pos_hint: {'center_x': .06, 'center_y': .95} 
+            size_hint: .15, .075
+            text: 'Back'
+            color: 1, 1, 1, 1 
+            font_size_hint: 25
+            on_press: 
+                root.manager.current = 'home'
+                root.manager.transition.direction = 'right'
+
+        Label:
+            text: 'join'
+
+<CreateGroup>:
+    name: 'create'
+
+    group: group_name
+    description: group_desc
+
+    canvas:
+        Color: 
+            rgba: 0, 0.7, 0, 1
+        Rectangle:
+            size: self.size
+            pos: self.pos
+
+    FloatLayout:
+        Button:
+            background_color: 0, .4, .5, 1
+            pos_hint: {'center_x': .06, 'center_y': .95} 
+            size_hint: .15, .075
+            text: 'Back'
+            color: 1, 1, 1, 1 
+            font_size_hint: 25
+            on_press: 
+                root.manager.current = 'home'
+                root.manager.transition.direction = 'right'
+        Label:
+            text: 'Enter Group Name:'
+            pos_hint: {'x': -0.2, 'top': 1.3}
+        TextInput:
+            id: group_name
+            size_hint: 0.4, 0.05
+            pos_hint: {'x': 0.45, 'top': 0.82}
+            multiline: False
+            font_size: 25
+        Label:
+            text: 'Group Description:'
+            pos_hint: {'x': -0.2, 'top': 1.2}
+        TextInput:
+            id: group_desc
+            size_hint: 0.4, 0.05
+            pos_hint: {'x': 0.45, 'top': 0.72}
+            multiline: False
+            font_size: 25
+        Button:
+            background_color: 0, .4, .5, 1
+            pos_hint: {'center_x': 0.5} 
+            size_hint: .15, .075
+            text: 'Create'
+            color: 1, 1, 1, 1 
+            font_size_hint: 25
+            on_press: 
+                root.create()
+                root.manager.current = 'home'
+                root.manager.transition.direction = 'right'
