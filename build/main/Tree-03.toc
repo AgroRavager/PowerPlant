@@ -1,0 +1,3826 @@
+('D:\\Kivy Packaging\\powerplantBETA_0.02_Windows',
+ None,
+ [],
+ 'DATA',
+ [('.gitignore',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\.gitignore',
+   'DATA'),
+  ('auth.py',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\auth.py',
+   'DATA'),
+  ('db.py', 'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\db.py', 'DATA'),
+  ('gps.py', 'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\gps.py', 'DATA'),
+  ('gps_datlog.txt',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\gps_datlog.txt',
+   'DATA'),
+  ('imu.py', 'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\imu.py', 'DATA'),
+  ('kv.txt', 'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\kv.txt', 'DATA'),
+  ('main.py',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\main.py',
+   'DATA'),
+  ('main.spec',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\main.spec',
+   'DATA'),
+  ('README.md',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\README.md',
+   'DATA'),
+  ('serial_test.py',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\serial_test.py',
+   'DATA'),
+  ('testScript.py',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\testScript.py',
+   'DATA'),
+  ('__pycache__\\auth.cpython-38.pyc',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\__pycache__\\auth.cpython-38.pyc',
+   'DATA'),
+  ('__pycache__\\main.cpython-38.pyc',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\__pycache__\\main.cpython-38.pyc',
+   'DATA'),
+  ('__pycache__\\serial_test.cpython-38.pyc',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\__pycache__\\serial_test.cpython-38.pyc',
+   'DATA'),
+  ('text_filtering\\filtering.py',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\text_filtering\\filtering.py',
+   'DATA'),
+  ('IMU_Testing\\imu_data.csv',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\IMU_Testing\\imu_data.csv',
+   'DATA'),
+  ('IMU_Testing\\IMU_DATA.log',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\IMU_Testing\\IMU_DATA.log',
+   'DATA'),
+  ('IMU_Testing\\lavindusquats1.csv',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\IMU_Testing\\lavindusquats1.csv',
+   'DATA'),
+  ('IMU_Testing\\lavindusquats2.csv',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\IMU_Testing\\lavindusquats2.csv',
+   'DATA'),
+  ('IMU_Testing\\lavindusquats3.csv',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\IMU_Testing\\lavindusquats3.csv',
+   'DATA'),
+  ('IMU_Testing\\RandomTestData4.csv',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\IMU_Testing\\RandomTestData4.csv',
+   'DATA'),
+  ('IMU_Testing\\squatGraphs.ipynb',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\IMU_Testing\\squatGraphs.ipynb',
+   'DATA'),
+  ('IMU_Testing\\tenSquatTestData.csv',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\IMU_Testing\\tenSquatTestData.csv',
+   'DATA'),
+  ('IMU_Testing\\tenSquatTestData2.csv',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\IMU_Testing\\tenSquatTestData2.csv',
+   'DATA'),
+  ('IMU_Testing\\tenSquatTestData3.csv',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\IMU_Testing\\tenSquatTestData3.csv',
+   'DATA'),
+  ('IMU_Testing\\testData2.csv',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\IMU_Testing\\testData2.csv',
+   'DATA'),
+  ('IMU_Testing\\testData3.csv',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\IMU_Testing\\testData3.csv',
+   'DATA'),
+  ('IMU_Testing\\.ipynb_checkpoints\\squatGraphs-checkpoint.ipynb',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\IMU_Testing\\.ipynb_checkpoints\\squatGraphs-checkpoint.ipynb',
+   'DATA'),
+  ('Images\\buff.png',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\Images\\buff.png',
+   'DATA'),
+  ('Images\\edited.jpg',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\Images\\edited.jpg',
+   'DATA'),
+  ('Images\\hellomynameis.png',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\Images\\hellomynameis.png',
+   'DATA'),
+  ('Images\\POWERPLogo.png',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\Images\\POWERPLogo.png',
+   'DATA'),
+  ('Images\\PowPCactuses.png',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\Images\\PowPCactuses.png',
+   'DATA'),
+  ('Images\\PowPHousePlant.png',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\Images\\PowPHousePlant.png',
+   'DATA'),
+  ('Images\\Simple_PowP_logo.png',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\Images\\Simple_PowP_logo.png',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-console-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-core-console-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-datetime-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-core-datetime-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-debug-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-core-debug-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-file-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-core-file-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-file-l1-2-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-core-file-l1-2-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-file-l2-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-core-file-l2-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-handle-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-core-handle-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-heap-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-core-heap-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-localization-l1-2-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-core-localization-l1-2-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-memory-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-core-memory-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-profile-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-core-profile-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-string-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-core-string-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-synch-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-core-synch-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-synch-l1-2-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-core-synch-l1-2-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-timezone-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-core-timezone-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-core-util-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-core-util-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-crt-conio-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-crt-conio-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-crt-convert-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-crt-convert-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-crt-environment-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-crt-environment-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-crt-heap-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-crt-heap-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-crt-locale-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-crt-locale-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-crt-math-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-crt-math-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-crt-multibyte-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-crt-multibyte-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-crt-process-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-crt-process-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-crt-string-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-crt-string-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-crt-time-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-crt-time-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\api-ms-win-crt-utility-l1-1-0.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\api-ms-win-crt-utility-l1-1-0.dll',
+   'DATA'),
+  ('dist\\main\\base_library.zip',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\base_library.zip',
+   'DATA'),
+  ('dist\\main\\glew32.dll',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\glew32.dll',
+   'DATA'),
+  ('dist\\main\\libcrypto-1_1.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\libcrypto-1_1.dll',
+   'DATA'),
+  ('dist\\main\\libffi-7.dll',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\libffi-7.dll',
+   'DATA'),
+  ('dist\\main\\libfreetype-6.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\libfreetype-6.dll',
+   'DATA'),
+  ('dist\\main\\libopenblas.WCDJNK7YVMPZQ2ME2ZZHJJRJ3JIKNDB7.gfortran-win_amd64.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\libopenblas.WCDJNK7YVMPZQ2ME2ZZHJJRJ3JIKNDB7.gfortran-win_amd64.dll',
+   'DATA'),
+  ('dist\\main\\libssl-1_1.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\libssl-1_1.dll',
+   'DATA'),
+  ('dist\\main\\main.exe',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\main.exe',
+   'DATA'),
+  ('dist\\main\\main.exe.manifest',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\main.exe.manifest',
+   'DATA'),
+  ('dist\\main\\mfc140u.dll',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\mfc140u.dll',
+   'DATA'),
+  ('dist\\main\\MSVCP140.dll',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\MSVCP140.dll',
+   'DATA'),
+  ('dist\\main\\pyexpat.pyd',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pyexpat.pyd',
+   'DATA'),
+  ('dist\\main\\python38.dll',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\python38.dll',
+   'DATA'),
+  ('dist\\main\\pythoncom38.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pythoncom38.dll',
+   'DATA'),
+  ('dist\\main\\pywintypes38.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pywintypes38.dll',
+   'DATA'),
+  ('dist\\main\\SDL2.dll',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\SDL2.dll',
+   'DATA'),
+  ('dist\\main\\SDL2_image.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\SDL2_image.dll',
+   'DATA'),
+  ('dist\\main\\SDL2_mixer.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\SDL2_mixer.dll',
+   'DATA'),
+  ('dist\\main\\SDL2_ttf.dll',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\SDL2_ttf.dll',
+   'DATA'),
+  ('dist\\main\\select.pyd',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\select.pyd',
+   'DATA'),
+  ('dist\\main\\sqlite3.dll',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\sqlite3.dll',
+   'DATA'),
+  ('dist\\main\\ucrtbase.dll',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\ucrtbase.dll',
+   'DATA'),
+  ('dist\\main\\unicodedata.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\unicodedata.pyd',
+   'DATA'),
+  ('dist\\main\\VCRUNTIME140.dll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\VCRUNTIME140.dll',
+   'DATA'),
+  ('dist\\main\\win32api.pyd',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\win32api.pyd',
+   'DATA'),
+  ('dist\\main\\win32file.pyd',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\win32file.pyd',
+   'DATA'),
+  ('dist\\main\\win32gui.pyd',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\win32gui.pyd',
+   'DATA'),
+  ('dist\\main\\win32pdh.pyd',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\win32pdh.pyd',
+   'DATA'),
+  ('dist\\main\\win32trace.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\win32trace.pyd',
+   'DATA'),
+  ('dist\\main\\win32ui.pyd',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\win32ui.pyd',
+   'DATA'),
+  ('dist\\main\\win32wnet.pyd',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\win32wnet.pyd',
+   'DATA'),
+  ('dist\\main\\zlib1.dll',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\zlib1.dll',
+   'DATA'),
+  ('dist\\main\\_asyncio.pyd',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\_asyncio.pyd',
+   'DATA'),
+  ('dist\\main\\_bz2.pyd',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\_bz2.pyd',
+   'DATA'),
+  ('dist\\main\\_ctypes.pyd',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\_ctypes.pyd',
+   'DATA'),
+  ('dist\\main\\_decimal.pyd',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\_decimal.pyd',
+   'DATA'),
+  ('dist\\main\\_elementtree.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\_elementtree.pyd',
+   'DATA'),
+  ('dist\\main\\_hashlib.pyd',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\_hashlib.pyd',
+   'DATA'),
+  ('dist\\main\\_lzma.pyd',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\_lzma.pyd',
+   'DATA'),
+  ('dist\\main\\_multiprocessing.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\_multiprocessing.pyd',
+   'DATA'),
+  ('dist\\main\\_overlapped.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\_overlapped.pyd',
+   'DATA'),
+  ('dist\\main\\_queue.pyd',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\_queue.pyd',
+   'DATA'),
+  ('dist\\main\\_socket.pyd',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\_socket.pyd',
+   'DATA'),
+  ('dist\\main\\_sqlite3.pyd',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\_sqlite3.pyd',
+   'DATA'),
+  ('dist\\main\\_ssl.pyd',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\_ssl.pyd',
+   'DATA'),
+  ('dist\\main\\_win32sysloader.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\_win32sysloader.pyd',
+   'DATA'),
+  ('dist\\main\\win32com\\shell\\shell.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\win32com\\shell\\shell.pyd',
+   'DATA'),
+  ('dist\\main\\sqlalchemy\\cprocessors.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\sqlalchemy\\cprocessors.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\sqlalchemy\\cresultproxy.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\sqlalchemy\\cresultproxy.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\sqlalchemy\\cutils.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\sqlalchemy\\cutils.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\CET',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\CET',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\CST6CDT',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\CST6CDT',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Cuba',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Cuba',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\EET',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\EET',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Egypt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Egypt',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Eire',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Eire',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\EST',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\EST',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\EST5EDT',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\EST5EDT',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Factory',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Factory',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\GB',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\GB',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\GB-Eire',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\GB-Eire',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\GMT',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\GMT',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\GMT+0',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\GMT+0',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\GMT-0',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\GMT-0',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\GMT0',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\GMT0',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Greenwich',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Greenwich',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Hongkong',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Hongkong',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\HST',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\HST',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Iceland',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Iceland',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Iran',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Iran',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\iso3166.tab',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\iso3166.tab',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Israel',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Israel',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Jamaica',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Jamaica',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Japan',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Japan',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Kwajalein',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Kwajalein',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\leapseconds',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\leapseconds',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Libya',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Libya',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\MET',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\MET',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\MST',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\MST',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\MST7MDT',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\MST7MDT',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Navajo',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Navajo',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\NZ',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\NZ',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\NZ-CHAT',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\NZ-CHAT',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Poland',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Poland',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Portugal',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Portugal',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\PRC',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\PRC',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\PST8PDT',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\PST8PDT',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\ROC',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\ROC',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\ROK',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\ROK',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Singapore',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Singapore',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Turkey',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Turkey',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\tzdata.zi',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\tzdata.zi',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\UCT',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\UCT',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Universal',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Universal',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\UTC',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\UTC',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\W-SU',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\W-SU',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\WET',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\WET',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\zone.tab',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\zone.tab',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\zone1970.tab',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\zone1970.tab',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Zulu',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Zulu',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\US\\Alaska',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\US\\Alaska',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\US\\Aleutian',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\US\\Aleutian',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\US\\Arizona',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\US\\Arizona',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\US\\Central',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\US\\Central',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\US\\East-Indiana',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\US\\East-Indiana',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\US\\Eastern',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\US\\Eastern',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\US\\Hawaii',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\US\\Hawaii',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\US\\Indiana-Starke',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\US\\Indiana-Starke',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\US\\Michigan',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\US\\Michigan',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\US\\Mountain',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\US\\Mountain',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\US\\Pacific',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\US\\Pacific',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\US\\Samoa',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\US\\Samoa',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Apia',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Apia',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Auckland',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Auckland',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Bougainville',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Bougainville',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Chatham',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Chatham',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Chuuk',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Chuuk',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Easter',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Easter',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Efate',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Efate',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Enderbury',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Enderbury',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Fakaofo',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Fakaofo',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Fiji',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Fiji',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Funafuti',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Funafuti',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Galapagos',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Galapagos',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Gambier',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Gambier',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Guadalcanal',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Guadalcanal',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Guam',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Guam',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Honolulu',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Honolulu',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Johnston',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Johnston',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Kiritimati',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Kiritimati',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Kosrae',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Kosrae',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Kwajalein',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Kwajalein',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Majuro',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Majuro',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Marquesas',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Marquesas',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Midway',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Midway',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Nauru',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Nauru',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Niue',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Niue',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Norfolk',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Norfolk',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Noumea',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Noumea',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Pago_Pago',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Pago_Pago',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Palau',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Palau',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Pitcairn',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Pitcairn',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Pohnpei',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Pohnpei',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Ponape',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Ponape',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Port_Moresby',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Port_Moresby',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Rarotonga',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Rarotonga',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Saipan',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Saipan',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Samoa',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Samoa',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Tahiti',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Tahiti',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Tarawa',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Tarawa',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Tongatapu',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Tongatapu',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Truk',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Truk',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Wake',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Wake',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Wallis',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Wallis',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Pacific\\Yap',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Pacific\\Yap',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Mexico\\BajaNorte',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Mexico\\BajaNorte',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Mexico\\BajaSur',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Mexico\\BajaSur',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Mexico\\General',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Mexico\\General',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Indian\\Antananarivo',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Indian\\Antananarivo',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Indian\\Chagos',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Indian\\Chagos',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Indian\\Christmas',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Indian\\Christmas',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Indian\\Cocos',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Indian\\Cocos',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Indian\\Comoro',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Indian\\Comoro',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Indian\\Kerguelen',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Indian\\Kerguelen',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Indian\\Mahe',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Indian\\Mahe',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Indian\\Maldives',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Indian\\Maldives',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Indian\\Mauritius',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Indian\\Mauritius',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Indian\\Mayotte',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Indian\\Mayotte',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Indian\\Reunion',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Indian\\Reunion',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Amsterdam',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Amsterdam',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Andorra',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Andorra',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Astrakhan',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Astrakhan',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Athens',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Athens',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Belfast',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Belfast',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Belgrade',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Belgrade',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Berlin',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Berlin',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Bratislava',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Bratislava',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Brussels',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Brussels',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Bucharest',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Bucharest',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Budapest',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Budapest',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Busingen',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Busingen',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Chisinau',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Chisinau',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Copenhagen',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Copenhagen',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Dublin',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Dublin',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Gibraltar',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Gibraltar',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Guernsey',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Guernsey',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Helsinki',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Helsinki',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Isle_of_Man',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Isle_of_Man',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Istanbul',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Istanbul',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Jersey',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Jersey',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Kaliningrad',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Kaliningrad',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Kiev',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Kiev',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Kirov',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Kirov',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Lisbon',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Lisbon',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Ljubljana',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Ljubljana',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\London',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\London',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Luxembourg',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Luxembourg',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Madrid',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Madrid',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Malta',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Malta',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Mariehamn',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Mariehamn',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Minsk',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Minsk',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Monaco',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Monaco',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Moscow',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Moscow',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Nicosia',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Nicosia',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Oslo',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Oslo',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Paris',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Paris',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Podgorica',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Podgorica',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Prague',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Prague',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Riga',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Riga',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Rome',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Rome',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Samara',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Samara',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\San_Marino',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\San_Marino',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Sarajevo',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Sarajevo',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Saratov',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Saratov',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Simferopol',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Simferopol',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Skopje',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Skopje',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Sofia',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Sofia',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Stockholm',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Stockholm',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Tallinn',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Tallinn',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Tirane',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Tirane',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Tiraspol',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Tiraspol',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Ulyanovsk',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Ulyanovsk',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Uzhgorod',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Uzhgorod',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Vaduz',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Vaduz',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Vatican',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Vatican',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Vienna',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Vienna',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Vilnius',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Vilnius',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Volgograd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Volgograd',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Warsaw',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Warsaw',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Zagreb',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Zagreb',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Zaporozhye',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Zaporozhye',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Europe\\Zurich',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Europe\\Zurich',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT+0',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT+0',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT+1',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT+1',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT+10',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT+10',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT+11',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT+11',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT+12',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT+12',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT+2',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT+2',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT+3',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT+3',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT+4',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT+4',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT+5',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT+5',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT+6',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT+6',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT+7',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT+7',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT+8',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT+8',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT+9',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT+9',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT-0',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT-0',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT-1',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT-1',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT-10',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT-10',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT-11',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT-11',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT-12',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT-12',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT-13',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT-13',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT-14',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT-14',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT-2',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT-2',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT-3',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT-3',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT-4',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT-4',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT-5',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT-5',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT-6',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT-6',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT-7',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT-7',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT-8',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT-8',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT-9',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT-9',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\GMT0',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\GMT0',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\Greenwich',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\Greenwich',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\UCT',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\UCT',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\Universal',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\Universal',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\UTC',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\UTC',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Etc\\Zulu',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Etc\\Zulu',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Chile\\Continental',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Chile\\Continental',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Chile\\EasterIsland',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Chile\\EasterIsland',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Canada\\Atlantic',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Canada\\Atlantic',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Canada\\Central',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Canada\\Central',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Canada\\Eastern',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Canada\\Eastern',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Canada\\Mountain',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Canada\\Mountain',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Canada\\Newfoundland',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Canada\\Newfoundland',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Canada\\Pacific',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Canada\\Pacific',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Canada\\Saskatchewan',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Canada\\Saskatchewan',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Canada\\Yukon',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Canada\\Yukon',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Brazil\\Acre',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Brazil\\Acre',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Brazil\\DeNoronha',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Brazil\\DeNoronha',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Brazil\\East',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Brazil\\East',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Brazil\\West',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Brazil\\West',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Australia\\ACT',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Australia\\ACT',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Australia\\Adelaide',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Australia\\Adelaide',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Australia\\Brisbane',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Australia\\Brisbane',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Australia\\Broken_Hill',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Australia\\Broken_Hill',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Australia\\Canberra',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Australia\\Canberra',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Australia\\Currie',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Australia\\Currie',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Australia\\Darwin',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Australia\\Darwin',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Australia\\Eucla',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Australia\\Eucla',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Australia\\Hobart',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Australia\\Hobart',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Australia\\LHI',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Australia\\LHI',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Australia\\Lindeman',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Australia\\Lindeman',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Australia\\Lord_Howe',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Australia\\Lord_Howe',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Australia\\Melbourne',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Australia\\Melbourne',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Australia\\North',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Australia\\North',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Australia\\NSW',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Australia\\NSW',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Australia\\Perth',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Australia\\Perth',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Australia\\Queensland',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Australia\\Queensland',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Australia\\South',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Australia\\South',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Australia\\Sydney',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Australia\\Sydney',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Australia\\Tasmania',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Australia\\Tasmania',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Australia\\Victoria',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Australia\\Victoria',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Australia\\West',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Australia\\West',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Australia\\Yancowinna',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Australia\\Yancowinna',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Atlantic\\Azores',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Atlantic\\Azores',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Atlantic\\Bermuda',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Atlantic\\Bermuda',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Atlantic\\Canary',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Atlantic\\Canary',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Atlantic\\Cape_Verde',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Atlantic\\Cape_Verde',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Atlantic\\Faeroe',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Atlantic\\Faeroe',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Atlantic\\Faroe',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Atlantic\\Faroe',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Atlantic\\Jan_Mayen',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Atlantic\\Jan_Mayen',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Atlantic\\Madeira',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Atlantic\\Madeira',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Atlantic\\Reykjavik',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Atlantic\\Reykjavik',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Atlantic\\South_Georgia',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Atlantic\\South_Georgia',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Atlantic\\Stanley',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Atlantic\\Stanley',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Atlantic\\St_Helena',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Atlantic\\St_Helena',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Aden',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Aden',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Almaty',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Almaty',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Amman',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Amman',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Anadyr',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Anadyr',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Aqtau',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Aqtau',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Aqtobe',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Aqtobe',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Ashgabat',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Ashgabat',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Ashkhabad',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Ashkhabad',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Atyrau',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Atyrau',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Baghdad',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Baghdad',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Bahrain',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Bahrain',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Baku',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Baku',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Bangkok',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Bangkok',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Barnaul',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Barnaul',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Beirut',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Beirut',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Bishkek',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Bishkek',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Brunei',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Brunei',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Calcutta',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Calcutta',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Chita',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Chita',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Choibalsan',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Choibalsan',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Chongqing',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Chongqing',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Chungking',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Chungking',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Colombo',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Colombo',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Dacca',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Dacca',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Damascus',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Damascus',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Dhaka',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Dhaka',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Dili',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Dili',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Dubai',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Dubai',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Dushanbe',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Dushanbe',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Famagusta',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Famagusta',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Gaza',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Gaza',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Harbin',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Harbin',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Hebron',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Hebron',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Hong_Kong',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Hong_Kong',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Hovd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Hovd',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Ho_Chi_Minh',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Ho_Chi_Minh',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Irkutsk',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Irkutsk',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Istanbul',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Istanbul',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Jakarta',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Jakarta',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Jayapura',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Jayapura',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Jerusalem',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Jerusalem',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Kabul',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Kabul',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Kamchatka',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Kamchatka',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Karachi',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Karachi',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Kashgar',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Kashgar',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Kathmandu',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Kathmandu',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Katmandu',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Katmandu',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Khandyga',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Khandyga',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Kolkata',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Kolkata',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Krasnoyarsk',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Krasnoyarsk',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Kuala_Lumpur',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Kuala_Lumpur',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Kuching',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Kuching',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Kuwait',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Kuwait',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Macao',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Macao',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Macau',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Macau',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Magadan',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Magadan',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Makassar',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Makassar',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Manila',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Manila',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Muscat',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Muscat',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Nicosia',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Nicosia',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Novokuznetsk',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Novokuznetsk',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Novosibirsk',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Novosibirsk',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Omsk',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Omsk',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Oral',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Oral',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Phnom_Penh',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Phnom_Penh',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Pontianak',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Pontianak',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Pyongyang',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Pyongyang',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Qatar',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Qatar',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Qostanay',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Qostanay',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Qyzylorda',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Qyzylorda',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Rangoon',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Rangoon',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Riyadh',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Riyadh',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Saigon',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Saigon',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Sakhalin',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Sakhalin',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Samarkand',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Samarkand',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Seoul',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Seoul',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Shanghai',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Shanghai',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Singapore',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Singapore',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Srednekolymsk',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Srednekolymsk',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Taipei',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Taipei',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Tashkent',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Tashkent',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Tbilisi',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Tbilisi',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Tehran',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Tehran',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Tel_Aviv',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Tel_Aviv',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Thimbu',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Thimbu',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Thimphu',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Thimphu',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Tokyo',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Tokyo',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Tomsk',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Tomsk',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Ujung_Pandang',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Ujung_Pandang',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Ulaanbaatar',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Ulaanbaatar',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Ulan_Bator',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Ulan_Bator',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Urumqi',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Urumqi',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Ust-Nera',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Ust-Nera',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Vientiane',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Vientiane',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Vladivostok',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Vladivostok',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Yakutsk',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Yakutsk',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Yangon',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Yangon',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Yekaterinburg',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Yekaterinburg',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Asia\\Yerevan',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Asia\\Yerevan',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Arctic\\Longyearbyen',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Arctic\\Longyearbyen',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Antarctica\\Casey',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Antarctica\\Casey',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Antarctica\\Davis',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Antarctica\\Davis',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Antarctica\\DumontDUrville',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Antarctica\\DumontDUrville',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Antarctica\\Macquarie',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Antarctica\\Macquarie',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Antarctica\\Mawson',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Antarctica\\Mawson',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Antarctica\\McMurdo',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Antarctica\\McMurdo',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Antarctica\\Palmer',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Antarctica\\Palmer',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Antarctica\\Rothera',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Antarctica\\Rothera',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Antarctica\\South_Pole',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Antarctica\\South_Pole',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Antarctica\\Syowa',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Antarctica\\Syowa',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Antarctica\\Troll',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Antarctica\\Troll',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Antarctica\\Vostok',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Antarctica\\Vostok',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Adak',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Adak',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Anchorage',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Anchorage',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Anguilla',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Anguilla',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Antigua',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Antigua',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Araguaina',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Araguaina',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Aruba',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Aruba',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Asuncion',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Asuncion',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Atikokan',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Atikokan',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Atka',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Atka',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Bahia',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Bahia',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Bahia_Banderas',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Bahia_Banderas',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Barbados',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Barbados',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Belem',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Belem',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Belize',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Belize',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Blanc-Sablon',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Blanc-Sablon',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Boa_Vista',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Boa_Vista',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Bogota',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Bogota',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Boise',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Boise',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Buenos_Aires',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Buenos_Aires',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Cambridge_Bay',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Cambridge_Bay',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Campo_Grande',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Campo_Grande',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Cancun',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Cancun',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Caracas',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Caracas',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Catamarca',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Catamarca',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Cayenne',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Cayenne',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Cayman',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Cayman',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Chicago',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Chicago',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Chihuahua',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Chihuahua',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Coral_Harbour',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Coral_Harbour',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Cordoba',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Cordoba',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Costa_Rica',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Costa_Rica',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Creston',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Creston',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Cuiaba',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Cuiaba',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Curacao',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Curacao',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Danmarkshavn',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Danmarkshavn',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Dawson',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Dawson',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Dawson_Creek',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Dawson_Creek',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Denver',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Denver',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Detroit',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Detroit',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Dominica',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Dominica',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Edmonton',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Edmonton',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Eirunepe',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Eirunepe',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\El_Salvador',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\El_Salvador',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Ensenada',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Ensenada',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Fortaleza',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Fortaleza',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Fort_Nelson',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Fort_Nelson',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Fort_Wayne',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Fort_Wayne',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Glace_Bay',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Glace_Bay',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Godthab',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Godthab',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Goose_Bay',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Goose_Bay',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Grand_Turk',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Grand_Turk',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Grenada',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Grenada',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Guadeloupe',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Guadeloupe',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Guatemala',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Guatemala',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Guayaquil',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Guayaquil',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Guyana',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Guyana',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Halifax',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Halifax',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Havana',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Havana',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Hermosillo',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Hermosillo',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Indianapolis',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Indianapolis',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Inuvik',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Inuvik',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Iqaluit',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Iqaluit',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Jamaica',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Jamaica',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Jujuy',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Jujuy',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Juneau',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Juneau',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Knox_IN',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Knox_IN',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Kralendijk',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Kralendijk',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\La_Paz',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\La_Paz',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Lima',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Lima',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Los_Angeles',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Los_Angeles',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Louisville',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Louisville',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Lower_Princes',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Lower_Princes',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Maceio',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Maceio',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Managua',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Managua',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Manaus',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Manaus',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Marigot',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Marigot',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Martinique',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Martinique',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Matamoros',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Matamoros',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Mazatlan',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Mazatlan',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Mendoza',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Mendoza',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Menominee',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Menominee',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Merida',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Merida',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Metlakatla',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Metlakatla',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Mexico_City',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Mexico_City',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Miquelon',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Miquelon',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Moncton',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Moncton',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Monterrey',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Monterrey',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Montevideo',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Montevideo',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Montreal',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Montreal',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Montserrat',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Montserrat',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Nassau',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Nassau',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\New_York',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\New_York',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Nipigon',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Nipigon',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Nome',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Nome',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Noronha',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Noronha',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Nuuk',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Nuuk',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Ojinaga',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Ojinaga',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Panama',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Panama',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Pangnirtung',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Pangnirtung',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Paramaribo',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Paramaribo',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Phoenix',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Phoenix',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Port-au-Prince',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Port-au-Prince',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Porto_Acre',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Porto_Acre',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Porto_Velho',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Porto_Velho',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Port_of_Spain',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Port_of_Spain',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Puerto_Rico',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Puerto_Rico',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Punta_Arenas',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Punta_Arenas',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Rainy_River',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Rainy_River',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Rankin_Inlet',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Rankin_Inlet',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Recife',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Recife',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Regina',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Regina',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Resolute',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Resolute',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Rio_Branco',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Rio_Branco',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Rosario',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Rosario',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Santarem',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Santarem',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Santa_Isabel',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Santa_Isabel',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Santiago',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Santiago',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Santo_Domingo',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Santo_Domingo',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Sao_Paulo',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Sao_Paulo',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Scoresbysund',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Scoresbysund',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Shiprock',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Shiprock',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Sitka',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Sitka',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\St_Barthelemy',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\St_Barthelemy',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\St_Johns',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\St_Johns',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\St_Kitts',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\St_Kitts',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\St_Lucia',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\St_Lucia',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\St_Thomas',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\St_Thomas',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\St_Vincent',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\St_Vincent',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Swift_Current',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Swift_Current',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Tegucigalpa',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Tegucigalpa',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Thule',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Thule',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Thunder_Bay',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Thunder_Bay',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Tijuana',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Tijuana',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Toronto',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Toronto',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Tortola',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Tortola',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Vancouver',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Vancouver',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Virgin',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Virgin',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Whitehorse',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Whitehorse',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Winnipeg',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Winnipeg',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Yakutat',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Yakutat',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Yellowknife',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Yellowknife',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\North_Dakota\\Beulah',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\North_Dakota\\Beulah',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\North_Dakota\\Center',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\North_Dakota\\Center',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\North_Dakota\\New_Salem',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\North_Dakota\\New_Salem',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Kentucky\\Louisville',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Kentucky\\Louisville',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Kentucky\\Monticello',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Kentucky\\Monticello',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Indiana\\Indianapolis',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Indiana\\Indianapolis',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Indiana\\Knox',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Indiana\\Knox',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Indiana\\Marengo',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Indiana\\Marengo',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Indiana\\Petersburg',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Indiana\\Petersburg',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Indiana\\Tell_City',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Indiana\\Tell_City',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Indiana\\Vevay',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Indiana\\Vevay',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Indiana\\Vincennes',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Indiana\\Vincennes',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Indiana\\Winamac',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Indiana\\Winamac',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Argentina\\Buenos_Aires',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Argentina\\Buenos_Aires',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Argentina\\Catamarca',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Argentina\\Catamarca',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Argentina\\ComodRivadavia',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Argentina\\ComodRivadavia',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Argentina\\Cordoba',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Argentina\\Cordoba',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Argentina\\Jujuy',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Argentina\\Jujuy',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Argentina\\La_Rioja',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Argentina\\La_Rioja',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Argentina\\Mendoza',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Argentina\\Mendoza',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Argentina\\Rio_Gallegos',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Argentina\\Rio_Gallegos',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Argentina\\Salta',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Argentina\\Salta',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Argentina\\San_Juan',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Argentina\\San_Juan',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Argentina\\San_Luis',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Argentina\\San_Luis',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Argentina\\Tucuman',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Argentina\\Tucuman',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\America\\Argentina\\Ushuaia',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\America\\Argentina\\Ushuaia',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Abidjan',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Abidjan',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Accra',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Accra',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Addis_Ababa',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Addis_Ababa',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Algiers',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Algiers',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Asmara',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Asmara',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Asmera',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Asmera',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Bamako',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Bamako',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Bangui',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Bangui',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Banjul',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Banjul',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Bissau',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Bissau',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Blantyre',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Blantyre',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Brazzaville',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Brazzaville',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Bujumbura',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Bujumbura',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Cairo',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Cairo',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Casablanca',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Casablanca',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Ceuta',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Ceuta',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Conakry',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Conakry',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Dakar',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Dakar',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Dar_es_Salaam',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Dar_es_Salaam',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Djibouti',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Djibouti',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Douala',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Douala',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\El_Aaiun',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\El_Aaiun',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Freetown',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Freetown',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Gaborone',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Gaborone',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Harare',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Harare',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Johannesburg',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Johannesburg',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Juba',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Juba',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Kampala',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Kampala',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Khartoum',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Khartoum',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Kigali',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Kigali',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Kinshasa',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Kinshasa',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Lagos',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Lagos',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Libreville',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Libreville',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Lome',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Lome',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Luanda',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Luanda',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Lubumbashi',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Lubumbashi',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Lusaka',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Lusaka',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Malabo',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Malabo',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Maputo',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Maputo',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Maseru',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Maseru',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Mbabane',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Mbabane',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Mogadishu',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Mogadishu',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Monrovia',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Monrovia',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Nairobi',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Nairobi',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Ndjamena',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Ndjamena',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Niamey',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Niamey',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Nouakchott',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Nouakchott',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Ouagadougou',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Ouagadougou',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Porto-Novo',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Porto-Novo',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Sao_Tome',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Sao_Tome',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Timbuktu',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Timbuktu',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Tripoli',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Tripoli',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Tunis',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Tunis',
+   'DATA'),
+  ('dist\\main\\pytz\\zoneinfo\\Africa\\Windhoek',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pytz\\zoneinfo\\Africa\\Windhoek',
+   'DATA'),
+  ('dist\\main\\psycopg2\\_psycopg.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\psycopg2\\_psycopg.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\PIL\\_imaging.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\PIL\\_imaging.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\PIL\\_imagingft.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\PIL\\_imagingft.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\PIL\\_imagingtk.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\PIL\\_imagingtk.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\PIL\\_webp.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\PIL\\_webp.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\algos.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\algos.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\groupby.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\groupby.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\hashing.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\hashing.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\hashtable.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\hashtable.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\index.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\index.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\indexing.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\indexing.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\internals.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\internals.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\interval.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\interval.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\join.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\join.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\json.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\json.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\lib.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\lib.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\missing.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\missing.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\ops.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\ops.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\ops_dispatch.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\ops_dispatch.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\parsers.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\parsers.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\properties.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\properties.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\reduction.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\reduction.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\reshape.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\reshape.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\sparse.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\sparse.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\testing.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\testing.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\tslib.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\tslib.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\writers.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\writers.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\window\\aggregations.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\window\\aggregations.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\window\\indexers.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\window\\indexers.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\tslibs\\base.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\tslibs\\base.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\tslibs\\ccalendar.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\tslibs\\ccalendar.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\tslibs\\conversion.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\tslibs\\conversion.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\tslibs\\dtypes.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\tslibs\\dtypes.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\tslibs\\fields.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\tslibs\\fields.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\tslibs\\nattype.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\tslibs\\nattype.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\tslibs\\np_datetime.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\tslibs\\np_datetime.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\tslibs\\offsets.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\tslibs\\offsets.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\tslibs\\parsing.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\tslibs\\parsing.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\tslibs\\period.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\tslibs\\period.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\tslibs\\strptime.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\tslibs\\strptime.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\tslibs\\timedeltas.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\tslibs\\timedeltas.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\tslibs\\timestamps.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\tslibs\\timestamps.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\tslibs\\timezones.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\tslibs\\timezones.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\tslibs\\tzconversion.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\tslibs\\tzconversion.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\_libs\\tslibs\\vectorized.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\_libs\\tslibs\\vectorized.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\pandas\\io\\sas\\_sas.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\pandas\\io\\sas\\_sas.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\numpy\\random\\bit_generator.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\numpy\\random\\bit_generator.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\numpy\\random\\mtrand.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\numpy\\random\\mtrand.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\numpy\\random\\_bounded_integers.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\numpy\\random\\_bounded_integers.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\numpy\\random\\_common.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\numpy\\random\\_common.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\numpy\\random\\_generator.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\numpy\\random\\_generator.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\numpy\\random\\_mt19937.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\numpy\\random\\_mt19937.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\numpy\\random\\_pcg64.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\numpy\\random\\_pcg64.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\numpy\\random\\_philox.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\numpy\\random\\_philox.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\numpy\\random\\_sfc64.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\numpy\\random\\_sfc64.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\numpy\\linalg\\lapack_lite.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\numpy\\linalg\\lapack_lite.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\numpy\\linalg\\_umath_linalg.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\numpy\\linalg\\_umath_linalg.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\numpy\\fft\\_pocketfft_internal.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\numpy\\fft\\_pocketfft_internal.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\numpy\\core\\_multiarray_tests.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\numpy\\core\\_multiarray_tests.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\numpy\\core\\_multiarray_umath.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\numpy\\core\\_multiarray_umath.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\console.py',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\modules\\console.py',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\cursor.py',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\modules\\cursor.py',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\inspector.py',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\modules\\inspector.py',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\joycursor.py',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\modules\\joycursor.py',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\keybinding.py',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\modules\\keybinding.py',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\monitor.py',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\modules\\monitor.py',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\recorder.py',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\modules\\recorder.py',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\screen.py',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\modules\\screen.py',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\showborder.py',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\modules\\showborder.py',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\touchring.py',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\modules\\touchring.py',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\webdebugger.py',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\modules\\webdebugger.py',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\_webdebugger.py',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\modules\\_webdebugger.py',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__init__.py',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\modules\\__init__.py',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__pycache__\\console.cpython-38.pyc',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\modules\\__pycache__\\console.cpython-38.pyc',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__pycache__\\cursor.cpython-38.pyc',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\modules\\__pycache__\\cursor.cpython-38.pyc',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__pycache__\\inspector.cpython-38.pyc',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\modules\\__pycache__\\inspector.cpython-38.pyc',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__pycache__\\joycursor.cpython-38.pyc',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\modules\\__pycache__\\joycursor.cpython-38.pyc',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__pycache__\\keybinding.cpython-38.pyc',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\modules\\__pycache__\\keybinding.cpython-38.pyc',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__pycache__\\monitor.cpython-38.pyc',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\modules\\__pycache__\\monitor.cpython-38.pyc',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__pycache__\\recorder.cpython-38.pyc',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\modules\\__pycache__\\recorder.cpython-38.pyc',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__pycache__\\screen.cpython-38.pyc',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\modules\\__pycache__\\screen.cpython-38.pyc',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__pycache__\\showborder.cpython-38.pyc',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\modules\\__pycache__\\showborder.cpython-38.pyc',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__pycache__\\touchring.cpython-38.pyc',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\modules\\__pycache__\\touchring.cpython-38.pyc',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__pycache__\\webdebugger.cpython-38.pyc',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\modules\\__pycache__\\webdebugger.cpython-38.pyc',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__pycache__\\_webdebugger.cpython-38.pyc',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\modules\\__pycache__\\_webdebugger.cpython-38.pyc',
+   'DATA'),
+  ('dist\\main\\kivy_install\\modules\\__pycache__\\__init__.cpython-38.pyc',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\modules\\__pycache__\\__init__.cpython-38.pyc',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\settings_kivy.json',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\settings_kivy.json',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\style.kv',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\style.kv',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\logo\\kivy-icon-128.png',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\logo\\kivy-icon-128.png',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\logo\\kivy-icon-16.png',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\logo\\kivy-icon-16.png',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\logo\\kivy-icon-24.png',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\logo\\kivy-icon-24.png',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\logo\\kivy-icon-256.png',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\logo\\kivy-icon-256.png',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\logo\\kivy-icon-32.png',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\logo\\kivy-icon-32.png',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\logo\\kivy-icon-48.png',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\logo\\kivy-icon-48.png',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\logo\\kivy-icon-512.png',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\logo\\kivy-icon-512.png',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\logo\\kivy-icon-64.ico',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\logo\\kivy-icon-64.ico',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\logo\\kivy-icon-64.png',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\logo\\kivy-icon-64.png',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\keyboards\\azerty.json',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\keyboards\\azerty.json',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\keyboards\\de.json',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\keyboards\\de.json',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\keyboards\\de_CH.json',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\keyboards\\de_CH.json',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\keyboards\\en_US.json',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\keyboards\\en_US.json',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\keyboards\\fr_CH.json',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\keyboards\\fr_CH.json',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\keyboards\\qwerty.json',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\keyboards\\qwerty.json',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\keyboards\\qwertz.json',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\keyboards\\qwertz.json',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\images\\background.jpg',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\images\\background.jpg',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\images\\cursor.png',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\images\\cursor.png',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\images\\defaultshape.png',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\images\\defaultshape.png',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\images\\defaulttheme-0.png',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\images\\defaulttheme-0.png',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\images\\defaulttheme.atlas',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\images\\defaulttheme.atlas',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\images\\image-loading.gif',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\images\\image-loading.gif',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\images\\image-loading.zip',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\images\\image-loading.zip',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\images\\testpattern.png',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\images\\testpattern.png',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\glsl\\default.fs',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\glsl\\default.fs',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\glsl\\default.png',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\glsl\\default.png',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\glsl\\default.vs',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\glsl\\default.vs',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\glsl\\header.fs',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\glsl\\header.fs',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\glsl\\header.vs',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\glsl\\header.vs',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\fonts\\DejaVuSans.ttf',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\fonts\\DejaVuSans.ttf',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\fonts\\Roboto-Bold.ttf',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\fonts\\Roboto-Bold.ttf',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\fonts\\Roboto-Italic.ttf',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\fonts\\Roboto-Italic.ttf',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\fonts\\Roboto-Regular.ttf',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\fonts\\Roboto-Regular.ttf',
+   'DATA'),
+  ('dist\\main\\kivy_install\\data\\fonts\\RobotoMono-Regular.ttf',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy_install\\data\\fonts\\RobotoMono-Regular.ttf',
+   'DATA'),
+  ('dist\\main\\kivy\\properties.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\properties.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\weakproxy.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\weakproxy.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\_clock.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\_clock.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\_event.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\_event.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\lib\\gstplayer\\_gstplayer.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\lib\\gstplayer\\_gstplayer.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\buffer.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\graphics\\buffer.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\cgl.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\graphics\\cgl.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\compiler.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\graphics\\compiler.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\context.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\graphics\\context.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\context_instructions.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\graphics\\context_instructions.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\fbo.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\graphics\\fbo.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\gl_instructions.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\graphics\\gl_instructions.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\instructions.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\graphics\\instructions.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\opengl.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\graphics\\opengl.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\opengl_utils.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\graphics\\opengl_utils.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\scissor_instructions.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\graphics\\scissor_instructions.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\shader.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\graphics\\shader.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\stencil_instructions.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\graphics\\stencil_instructions.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\svg.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\graphics\\svg.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\tesselator.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\graphics\\tesselator.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\texture.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\graphics\\texture.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\transformation.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\graphics\\transformation.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\vbo.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\graphics\\vbo.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\vertex.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\graphics\\vertex.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\vertex_instructions.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\graphics\\vertex_instructions.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\cgl_backend\\cgl_debug.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\graphics\\cgl_backend\\cgl_debug.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\cgl_backend\\cgl_gl.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\graphics\\cgl_backend\\cgl_gl.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\cgl_backend\\cgl_glew.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\graphics\\cgl_backend\\cgl_glew.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\cgl_backend\\cgl_mock.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\graphics\\cgl_backend\\cgl_mock.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\graphics\\cgl_backend\\cgl_sdl2.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\graphics\\cgl_backend\\cgl_sdl2.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\core\\window\\window_info.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\core\\window\\window_info.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\core\\window\\_window_sdl2.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\core\\window\\_window_sdl2.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\core\\text\\text_layout.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\core\\text\\text_layout.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\core\\text\\_text_sdl2.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\core\\text\\_text_sdl2.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\core\\image\\_img_sdl2.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\core\\image\\_img_sdl2.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\core\\clipboard\\_clipboard_sdl2.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\core\\clipboard\\_clipboard_sdl2.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\kivy\\core\\audio\\audio_sdl2.cp38-win_amd64.pyd',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\kivy\\core\\audio\\audio_sdl2.cp38-win_amd64.pyd',
+   'DATA'),
+  ('dist\\main\\Include\\pyconfig.h',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\Include\\pyconfig.h',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\README.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\s5_html\\themes\\README.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\default\\blank.gif',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\s5_html\\themes\\default\\blank.gif',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\default\\iepngfix.htc',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\s5_html\\themes\\default\\iepngfix.htc',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\pep_html\\pep.css',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\pep_html\\pep.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\pep_html\\template.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\pep_html\\template.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\odf_odt\\styles.odt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\odf_odt\\styles.odt',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\latex2e\\default.tex',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\latex2e\\default.tex',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\latex2e\\titlepage.tex',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\latex2e\\titlepage.tex',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\latex2e\\xelatex.tex',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\latex2e\\xelatex.tex',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\html5_polyglot\\math.css',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\html5_polyglot\\math.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\html5_polyglot\\minimal.css',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\html5_polyglot\\minimal.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\html5_polyglot\\plain.css',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\html5_polyglot\\plain.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\html5_polyglot\\template.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\html5_polyglot\\template.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\html4css1\\html4css1.css',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\html4css1\\html4css1.css',
+   'DATA'),
+  ('dist\\main\\docutils\\writers\\html4css1\\template.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\writers\\html4css1\\template.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isoamso.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\isoamso.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isobox.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\isobox.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isodia.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\isodia.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isolat1.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\isolat1.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isolat2.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\isolat2.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isomopf.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\isomopf.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isomscr.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\isomscr.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isonum.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\isonum.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isopub.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\isopub.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\isotech.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\isotech.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\README.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\README.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\s5defs.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\s5defs.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'DATA'),
+  ('dist\\main\\docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'DATA'),
+  ('dist\\main\\certifi\\cacert.pem',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\dist\\main\\certifi\\cacert.pem',
+   'DATA'),
+  ('build\\main\\Analysis-00.toc',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\build\\main\\Analysis-00.toc',
+   'DATA'),
+  ('build\\main\\base_library.zip',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\build\\main\\base_library.zip',
+   'DATA'),
+  ('build\\main\\COLLECT-00.toc',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\build\\main\\COLLECT-00.toc',
+   'DATA'),
+  ('build\\main\\EXE-00.toc',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\build\\main\\EXE-00.toc',
+   'DATA'),
+  ('build\\main\\main.exe',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\build\\main\\main.exe',
+   'DATA'),
+  ('build\\main\\main.exe.manifest',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\build\\main\\main.exe.manifest',
+   'DATA'),
+  ('build\\main\\PKG-00.pkg',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\build\\main\\PKG-00.pkg',
+   'DATA'),
+  ('build\\main\\PKG-00.toc',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\build\\main\\PKG-00.toc',
+   'DATA'),
+  ('build\\main\\PYZ-00.pyz',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\build\\main\\PYZ-00.pyz',
+   'DATA'),
+  ('build\\main\\PYZ-00.toc',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\build\\main\\PYZ-00.toc',
+   'DATA'),
+  ('build\\main\\Tree-00.toc',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\build\\main\\Tree-00.toc',
+   'DATA'),
+  ('build\\main\\Tree-01.toc',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\build\\main\\Tree-01.toc',
+   'DATA'),
+  ('build\\main\\Tree-02.toc',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\build\\main\\Tree-02.toc',
+   'DATA'),
+  ('build\\main\\warn-main.txt',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\build\\main\\warn-main.txt',
+   'DATA'),
+  ('build\\main\\xref-main.html',
+   'D:\\Kivy '
+   'Packaging\\powerplantBETA_0.02_Windows\\build\\main\\xref-main.html',
+   'DATA'),
+  ('.vscode\\settings.json',
+   'D:\\Kivy Packaging\\powerplantBETA_0.02_Windows\\.vscode\\settings.json',
+   'DATA')])
